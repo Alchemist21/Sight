@@ -5,7 +5,7 @@
 
 ## Our solution uses a depth sensing camera, enhanced with a real-time machine learning algorithm, to identify objects and convert them into a harmonious soundscape as the user moves through the environment. Every stationary object in the environment is associated with a unique ambient sounds, while haptics indicate whether they are interactive, providing a one-of-a-kind beautiful synesthetic experience. These experience will mimic 4 aspects of vision namely: (1) Look; (2) Focus through use of controller; (3) Observe and (4) Enjoy which includes activation of particles
 
-## View our project at https://heroic-croissant-9334b4.netlify.app/
+## View our project at https://benvision.xyz/
 
 ## Second project repo: https://github.com/Reality-Hack-2023/REPO-026
 
@@ -18,6 +18,7 @@
 
 ## How Application is working on Snapdragon Spaces Lenovo ThinkReality?
 Our project utilizes YOLO (AI) for object detection such as aeroplanes, bicycles, birds, boats, bottles, buses, cars, cats, chairs, cows, dining tables, dogs, horses, motorbikes, people, potted plants, sheep, sofas, trains, and TV monitors. It does this every 800 frames using image data from a camera. The volume of sound produced is dependent on the object being detected and is divided into 8 different categories (with plans to expand in the future). The distance from the object is determined by the size of the object recognized by YOLO and in newer versions we will be adding depth recognition as well.
+
 
 ## Builds and videos:
 * ![MacDemo](\Builds\Ben Vision_SoundScapes Demo_Unity Build_Mac.zip)
@@ -38,6 +39,9 @@ Toolchain:
 * Unity 2020.3.35f1
 * Qualcomm Snapdragon Spaces 0.9.0
 * AI - Unity Barracuda 1.0.4
+
+## Instructions
+
 
 ## Troubleshooting
 
