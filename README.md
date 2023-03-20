@@ -42,6 +42,14 @@ Toolchain:
 
 ## Instructions
 
+Clone a Unity 3D project from GitHub by following these steps:
+
+* On GitHub.com, navigate to the main page of the repository that you want to clone.
+* Above the list of files, click Code and copy the URL for the repository. You can choose HTTPS or SSH depending on your preference.
+* Open a terminal or a command line tool on your computer and change the current working directory to the location where you want the cloned project.
+* Type git clone, and then paste the URL you copied earlier. For example: git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+* Press Enter to create your local clone of the project.
+* Open Unity and browse to the folder that contains the cloned project. The parent of this folder should be the Unity project folder.
 
 ## Troubleshooting
 
