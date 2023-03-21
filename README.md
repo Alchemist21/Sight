@@ -1,13 +1,13 @@
-# BENVISION
-## BEN stands for Binaural Experience Navigator. We enable visually impaired individuals to experience the world around them through a combination of state of the art real time Machine Learning algorithm and Augmented Reality. We give them the ability to see objects through artificial intelligence and then convert those objects into soundscapes. Interestingly, Ben is also the name of the blind American diagnosed with retinal cancer who taught himself echolocation and was able to detect the location of objects by making frequent clicking noises with his tongue.
+## BENVISION
+### BEN stands for Binaural Experience Navigator. We enable visually impaired individuals to experience the world around them through a combination of state of the art real time Machine Learning algorithm and Augmented Reality. We give them the ability to see objects through artificial intelligence and then convert those objects into soundscapes. Interestingly, Ben is also the name of the blind American diagnosed with retinal cancer who taught himself echolocation and was able to detect the location of objects by making frequent clicking noises with his tongue.
 
-## How it works?
+### How it works?
 
 ## Our solution uses a depth sensing camera, enhanced with a real-time machine learning algorithm, to identify objects and convert them into a harmonious soundscape as the user moves through the environment. Every stationary object in the environment is associated with a unique ambient sounds, while haptics indicate whether they are interactive, providing a one-of-a-kind beautiful synesthetic experience. These experience will mimic 4 aspects of vision namely: (1) Look; (2) Focus through use of controller; (3) Observe and (4) Enjoy which includes activation of particles
 
-## View our project at https://benvision.xyz/
+### View our project at https://benvision.xyz/
 
-## Second project repo: https://github.com/Reality-Hack-2023/REPO-026
+### Second project repo: https://github.com/Reality-Hack-2023/REPO-026
 
 ![Screenshot](screen.png)
 
@@ -16,15 +16,15 @@
 * UnityNativeCamera:  https://github.com/yasirkula/UnityNativeCamera 
 * ChatGPT to solve some problems ;) 
 
-## How Application is working on Snapdragon Spaces Lenovo ThinkReality?
+### How Application is working on Snapdragon Spaces Lenovo ThinkReality?
 Our project utilizes YOLO (AI) for object detection such as aeroplanes, bicycles, birds, boats, bottles, buses, cars, cats, chairs, cows, dining tables, dogs, horses, motorbikes, people, potted plants, sheep, sofas, trains, and TV monitors. It does this every 800 frames using image data from a camera. The volume of sound produced is dependent on the object being detected and is divided into 8 different categories (with plans to expand in the future). The distance from the object is determined by the size of the object recognized by YOLO and in newer versions we will be adding depth recognition as well.
 
 
-## Builds and videos:
+### Builds and videos:
 * ![MacDemo](\Builds\Ben Vision_SoundScapes Demo_Unity Build_Mac.zip)
 * ![Windows](\Builds\Ben Vision_SoundScapes Demo_Window.zip)
 * ![ThinkReality](\Builds\sight.apk)
-## Videos
+### Videos
 * ![Introduction](\Builds\Introducing_BenVision_v3.mp4)
 * ![DemoVideo](\Builds\Ben Vision_SoundScapes Demo_Video.mp4)
 
@@ -40,7 +40,7 @@ Toolchain:
 * Qualcomm Snapdragon Spaces 0.9.0
 * AI - Unity Barracuda 1.0.4
 
-## Instructions
+### Instructions
 
 Clone a Unity 3D project from GitHub by following these steps:
 
@@ -50,7 +50,7 @@ Clone a Unity 3D project from GitHub by following these steps:
 * Press Enter to create your local clone of the project.
 * Open Unity 2020.3.35f1 and browse to the folder that contains the cloned project. The parent of this folder should be the Unity project folder.
 
-## Troubleshooting
+### Troubleshooting
 
 If you have trouble building the Unity project, please try the following:
 ```
